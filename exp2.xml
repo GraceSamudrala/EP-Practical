@@ -1,0 +1,51 @@
+<students_info>
+<student>                                
+   <regno>190031460</regno>
+   <name>GRACE</name>    
+   <avg>92</avg>
+   <dob>22-09-2001</dob>  
+   <time></time>       
+   <mobile no="8847834893"/>                         
+   <distinction>YES</distinction>
+ </student>
+
+<student>                                
+   <regno>190031233</regno>
+   <name>TEENA</name>    
+   <avg>93</avg>
+   <dob>17-06-2002</dob>  
+   <time></time>       
+   <mobile no="9849989484"/>                         
+   <distinction>YES</distinction>
+ </student>
+
+<student>                                
+   <regno>190031316</regno>
+   <name>VINEETHA</name>    
+   <avg>93</avg>
+   <dob>08-07-2002</dob>  
+   <time></time>       
+   <mobile no="9849984989"/>                         
+   <distinction>YES</distinction>
+ </student>
+
+<student>                                
+   <regno>190031550</regno>
+   <name>SUPRAJA</name>    
+   <avg>92</avg>
+   <dob>21-12-2001</dob>  
+   <time></time>       
+   <mobile no="9849984935"/>                         
+   <distinction>YES</distinction>
+ </student>
+
+<student>                                
+   <regno>190031594</regno>
+   <name>VYSHU</name>    
+   <avg>91</avg>
+   <dob>15-08-1992</dob>  
+   <time></time>       
+   <mobile no="9849984926"/>                         
+   <distinction>YES</distinction>
+ </student>
+</students_info>
