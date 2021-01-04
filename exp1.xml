@@ -1,0 +1,32 @@
+<class>
+<student>
+<name> GRACE </name>
+<id> 190031460 </id>
+<branch> CSE </branch>
+<cgpa> 9 </cgpa>
+</student>
+<student>
+<name> TEENA </name>
+<id> 190031233 </id>
+<branch> CSE </branch>
+<cgpa> 9.1 </cgpa>
+</student>
+<student>
+<name> VINEETHA </name>
+<id> 190031316 </id>
+<branch> CSE </branch>
+<cgpa> 9.2 </cgpa>
+</student>
+<student>
+<name> VYSHU </name>
+<id> 190031594 </id>
+<branch> CSE </branch>
+<cgpa> 8 </cgpa>
+</student>
+<student>
+<name> SUPRAJA </name>
+<id> 190031550 </id>
+<branch> CSE </branch>
+<cgpa> 9.3 </cgpa>
+</student>
+</class>
